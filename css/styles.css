@@ -61,6 +61,11 @@ p{
     letter-spacing: 0.02em;
     color: #212121;
 }
+
+.conect{
+    color: #757575;
+}
+
 .nav-link:hover,
 .nav-link:focus{
     color: var(--theme-color);
