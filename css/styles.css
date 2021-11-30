@@ -48,11 +48,12 @@ p{
     color: #000;
 }
 
-/*================Header styles starts here=================*/
-
 .logo>span{
     color: var(--theme-color);
 }
+
+
+/*================Header styles starts here=================*/
 
 .nav-link{
     font-weight: 500;
@@ -164,7 +165,20 @@ p{
     background: #2F303A;  
 }
 
+.logo-bottom{
+    font-family: var(--secondary-font);
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.2em;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.logo-bottom>span{
+    color: var(--theme-color);
+}
+
 address{
+    font-style: normal;
     font-size: 14px;
     line-height: 1.7em;
     letter-spacing: 0.03em;
